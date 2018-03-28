@@ -1,5 +1,5 @@
 
-This project should be launched from Input class first!!!
+This project should be launched from Input class first!
   
 This project represents UPS's delivery system. When it is launched it will ask the user/driver for 3 inputs. 
 
